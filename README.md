@@ -13,3 +13,6 @@ Link to [Week 4 Snakemake repo.](https://github.com/erebboah/AdvancedInformatics
 
 ## Week 5 plotting exercise
 Link to [Week 5 plotting repo.](https://github.com/erebboah/AdvancedInformatics_Week5_Plotting)
+
+## Week 6 data organization exercise
+Link to [Week 6 data organization repo.](https://github.com/erebboah/AdvancedInformatics_Week6_DataOrganization)
