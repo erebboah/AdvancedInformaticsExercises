@@ -16,3 +16,6 @@ Link to [Week 5 plotting repo.](https://github.com/erebboah/AdvancedInformatics_
 
 ## Week 6 data organization exercise
 Link to [Week 6 data organization repo.](https://github.com/erebboah/AdvancedInformatics_Week6_DataOrganization)
+
+## Week 7 alignment exercise
+Link to [Week 7 data alignment repo.](https://github.com/erebboah/AdvancedInformatics_Week6_DataOrganization)
