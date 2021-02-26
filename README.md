@@ -15,7 +15,13 @@ Link to [Week 4 Snakemake repo.](https://github.com/erebboah/AdvancedInformatics
 Link to [Week 5 plotting repo.](https://github.com/erebboah/AdvancedInformatics_Week5_Plotting)
 
 ## Week 6 data organization exercise
-Link to [Week 6 data organization repo.](https://github.com/erebboah/AdvancedInformatics_Week6_DataOrganization)
+Link to [Week 6 data organization repo.](https://github.com/erebboah/AdvancedInformatics_Week6-10_Pipelines)
 
 ## Week 7 alignment exercise
-Link to [Week 7 data alignment repo.](https://github.com/erebboah/AdvancedInformatics_Week6_DataOrganization)
+Link to [Week 7 data alignment repo.](https://github.com/erebboah/AdvancedInformatics_Week6-10_Pipelines)
+
+## Week 8 alignment exercise
+Link to [Week 8 DNA-seq pipeline and RNA-seq counts repo.](https://github.com/erebboah/AdvancedInformatics_Week6-10_Pipelines)
+
+## Week 9 alignment exercise
+Link to [Week 9 RNA-seq analysis and ATAC-seq visualization repo.](https://github.com/erebboah/AdvancedInformatics_Week6-10_Pipelines)
