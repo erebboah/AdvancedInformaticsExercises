@@ -25,3 +25,6 @@ Link to [Week 8 DNA-seq pipeline and RNA-seq counts repo.](https://github.com/er
 
 ## Week 9 RNA-seq analysis and ATAC-seq visualization exercise
 Link to [Week 9 RNA-seq analysis and ATAC-seq visualization repo.](https://github.com/erebboah/AdvancedInformatics_Week6-10_Pipelines)
+
+## Week 10 class project repo
+Link to [Week 10 class project repo.](https://github.com/erebboah/bulk_atac_pipeline)
